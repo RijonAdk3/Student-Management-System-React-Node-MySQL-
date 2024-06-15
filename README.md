@@ -1,0 +1,1 @@
+This is the project in which we can add students, edit student and delete as welll as update the student using the admin panel. Similarly, student can check their details and update their details as well.
